@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Fortnite Fan Zone</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Fortnite Fan Zone</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#skins">Skins</a></li>
+                <li><a href="#emotes">Emotes</a></li>
+                <li><a href="#tips">Tips & Tricks</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Welcome to Fortnite Fan Zone!</h2>
+        <p>Get the best tips, tricks, and guides for Fortnite skills, skins, and emotes!</p>
+    </section>
+
+    <section id="skills" class="section">
+        <h2>Master Fortnite Skills</h2>
+        <p>Become a Fortnite pro with these tips!</p>
+        <div class="skills">
+            <div class="skill">
+                <h3>Building Basics</h3>
+                <p>Learn how to build quickly and strategically.</p>
+            </div>
+            <div class="skill">
+                <h3>Aim and Accuracy</h3>
+                <p>Improve your aim and master headshots.</p>
+            </div>
+            <div class="skill">
+                <h3>Resource Management</h3>
+                <p>Learn how to gather materials efficiently.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="skins" class="section">
+        <h2>Ultimate Fortnite Skins</h2>
+        <p>Check out the coolest Fortnite skins available!</p>
+        <div class="skins">
+            <div class="skin">
+                <img src="https://via.placeholder.com/150" alt="Skin 1">
+                <p>Legendary Skin: Dark Voyager</p>
+            </div>
+            <div class="skin">
+                <img src="https://via.placeholder.com/150" alt="Skin 2">
+                <p>Epic Skin: Raven</p>
+            </div>
+            <div class="skin">
+                <img src="https://via.placeholder.com/150" alt="Skin 3">
+                <p>Rare Skin: Zoe</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="emotes" class="section">
+        <h2>Epic Fortnite Emotes</h2>
+        <p>Show off your moves with these fun emotes!</p>
+        <div class="emotes">
+            <div class="emote">
+                <img src="https://via.placeholder.com/150" alt="Emote 1">
+                <p>Floss</p>
+            </div>
+            <div class="emote">
+                <img src="https://via.placeholder.com/150" alt="Emote 2">
+                <p>Electro Shuffle</p>
+            </div>
+            <div class="emote">
+                <img src="https://via.placeholder.com/150" alt="Emote 3">
+                <p>Take the L</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="tips" class="section">
+        <h2>Pro Fortnite Tips & Tricks</h2>
+        <p>Level up your Fortnite skills with these helpful tips.</p>
+        <ul>
+            <li>Always be aware of the storm’s movement.</li>
+            <li>Use headphones to hear enemy footsteps more clearly.</li>
+            <li>Master building for quick defense in combat.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Fortnite Fan Zone. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
